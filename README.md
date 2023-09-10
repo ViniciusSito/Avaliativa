@@ -52,6 +52,7 @@ Retornando a representação da palavra com letras corretas e "-" para letras pa
 
 O jogador tenta adivinhar a palavra oculta dentro do limite de tentativas permitidas.
 
+- E dentro do main foi criado um paramentro para mostras as letras que ja foram usadas no decorrer do jogo
 
 Exercicio 4:
 
